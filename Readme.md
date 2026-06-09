@@ -1,21 +1,29 @@
-# Python OOP Concepts
+# Python Practice Code
 
-Practice code covering Object-Oriented Programming (OOP) basics in Python.
+A collection of Python practice files covering core programming concepts from basics to Object-Oriented Programming.
 
 ## Topics Covered
-- Classes and Objects
-- Constructors (`__init__`)
-- Class vs Instance Attributes
-- Abstraction
-- Encapsulation
-- `__str__` method
 
-## Files
-- `OOp1.py` — main practice file
+| File | Topic |
+|------|-------|
+| `first.py` | Python Basics (variables, data types, operators) |
+| `stringsAndConditions.py` | Strings and Conditional Statements (if/else) |
+| `Loop.py` | Loops (for, while) |
+| `ListAndTuples.py` | Lists and Tuples |
+| `dictionaryAnsSet.py` | Dictionaries and Sets |
+| `functions.py` | Functions |
+| `InputOuput.py` | Input and Output |
+| `OOP1.py` | Object-Oriented Programming (Classes, Objects, Constructors, Encapsulation, Abstraction) |
 
 ## How to Run
+
 ```bash
-python OOp1.py
+python filename.py
+```
+
+For example:
+```bash
+python OOP1.py
 ```
 
 ## Author
