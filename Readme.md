@@ -14,6 +14,7 @@ A collection of Python practice files covering core programming concepts from ba
 | `functions.py` | Functions |
 | `InputOuput.py` | Input and Output |
 | `OOP1.py` | Object-Oriented Programming (Classes, Objects, Constructors, Encapsulation, Abstraction) |
+| `OOP2.py` | Object-Oriented Programming (Inheritance) |
 
 ## How to Run
 
